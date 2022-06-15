@@ -1,0 +1,26 @@
+{
+"players": [
+	["tracer",	1.96, 0.23,	0.190],
+	["Fircoal",	1.37, 0.23,	0.185],
+	["nottoobad",	1.42, 0.30,	0.189],
+	["jakkdl",	1.18, 0.25,	0.198],
+	["yoifuro",	1.16, 0.24,	0.197]
+],
+"matches": [
+	["Fircoal",	"jakkdl",	0,	0],
+	["Fircoal",	"nottoobad",	0,	0],
+	["Fircoal",	"phika",	0,	0],
+	["Fircoal",	"tracer",	0,	0],
+	["Fircoal",	"yoifuro",	0,	0],
+	["jakkdl",	"nottoobad",	5,	1],
+	["jakkdl",	"phika",	1,	5],
+	["jakkdl",	"tracer",	2,	4],
+	["jakkdl",	"yoifuro",	0,	0],
+	["nottoobad",	"phika",	2,	4],
+	["nottoobad",	"tracer",	4,	2],
+	["nottoobad",	"yoifuro",	0,	0],
+	["phika",	"tracer",	3,	3],
+	["phika",	"yoifuro",	0,	0],
+	["tracer",	"yoifuro",	0,	0]
+]
+}

@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "dominion_league_glicko_predictions"
+version = "0.1.0"
+description = "Calculates the probability of prom- and demoting depending on different match outcomes between two league players."
+authors = ["jakkdl"]
+license = "WTFPL"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.dev-dependencies]
+black = "^22.3.0"
+pylint = "^2.14.1"
+mypy = "^0.961"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
